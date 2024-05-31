@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"addin",
+	"id":	"e7c55d79-289c-4a24-80eb-e5fbbb27b8fc",
+	"author":	"Marie Rigal",
+	"description":	{
+		"":	"Add custom pattern features"
+	},
+	"version":	"1.0.0",
+	"runOnStartup":	true,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
