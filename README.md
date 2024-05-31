@@ -18,6 +18,16 @@ To install the Custom Patterns Add-In in Fusion 360, follow these steps:
 
 Now, the Custom Patterns Add-In should be installed and ready to use in Fusion 360.
 
+## Features
+
+### Spiral Pattern
+
+> Design > Solid > Create > Spiral Pattern ![Spiral Pattern Icon](commands/spiralPattern/resources/16x16.png)
+
+The Spiral Pattern is a feature that allows you to duplicate a component along a specified axis while applying a rotation to it from a specified origin. This feature can be particularly useful for creating complex structures like spiral stairs.
+
+![Spiral Pattern Screenshot](commands/spiralPattern/resources/screenshot.png)
+
 ## License
 
 Custom Patterns Autodesk Fusion 360 Add-In is [Apache-2.0 licensed](LICENSE).
